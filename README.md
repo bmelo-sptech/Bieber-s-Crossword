@@ -1,20 +1,24 @@
-# 💜 MY WORLD — CROSSWORD EDITION 🎤
 
 <div align="center">
 
-### ✨ One Less Lonely Word ✨
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:5B238C,50:8B5CF6,100:D8B4FE&height=210&section=header&text=MY%20WORLD&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Crossword%20Edition%20%E2%80%A2%20One%20Less%20Lonely%20Word&descSize=18&descColor=F5E9FF&descAlignY=64" width="100%" alt="My World — Crossword Edition" />
 
-**Uma cruzadinha de Arquitetura Computacional inspirada na era *My World*, do Justin Bieber!**
+### 💜 One Less Lonely Word • Bieber Fever 🎤
+
+Uma cruzadinha de **Arquitetura Computacional** inspirada na era *My World*, do **Justin Bieber**.
 
 💜 🎶 💿 ⭐ 🎤 💜
 
----
+![Projeto](https://img.shields.io/badge/Projeto-Cruzadinha-D8B4FE?style=flat-square&labelColor=8B5CF6)
+![Curso](https://img.shields.io/badge/Curso-ADS-D8B4FE?style=flat-square&labelColor=8B5CF6)
+![Instituição](https://img.shields.io/badge/Instituição-SPTech-D8B4FE?style=flat-square&labelColor=8B5CF6)
+![Tecnologias](https://img.shields.io/badge/HTML-CSS%20%26%20JS-D8B4FE?style=flat-square&labelColor=8B5CF6)
 
-**🎮 JOGUE AQUI:** [Acessar a cruzadinha](COLOQUE_AQUI_O_LINK_DO_GITHUB_PAGES)
-
----
+**🎮 [JOGUE AQUI](COLOQUE_AQUI_O_LINK_DO_SITE)**
 
 </div>
+
+---
 
 ## 💿 Sobre o projeto
 
@@ -22,7 +26,7 @@ Bem-vindo ao **My World — Crossword Edition**! 💜
 
 Este projeto foi desenvolvido como parte da **Atividade Avaliativa III — Game: Cruzadinha de Arquitetura Computacional**, da **São Paulo Tech School (SPTech)**.
 
-O objetivo é transformar os conteúdos estudados na disciplina em um jogo interativo a fim de treino para a prova, no qual o jogador precisa descobrir termos relacionados ao funcionamento dos computadores.
+O objetivo é transformar os conteúdos estudados na disciplina em um jogo interativo para auxiliar na revisão para a prova, no qual o jogador precisa descobrir termos relacionados ao funcionamento dos computadores.
 
 E, para deixar tudo mais divertido, a identidade visual foi inspirada na era **My World (2009–2010)**, do Justin Bieber! 🎤
 
@@ -83,7 +87,7 @@ O projeto foi desenvolvido com tecnologias básicas de desenvolvimento web:
 | 🎨 CSS3 | Estilização, cores e identidade visual |
 | ⚡ JavaScript | Interatividade, validação das respostas e contador de acertos |
 
-**Sem frameworks ou bibliotecas externas.** 💜
+**Sem frameworks ou bibliotecas externas no funcionamento do jogo.** 💜
 
 ---
 
@@ -99,15 +103,6 @@ Não é necessário instalar dependências.
 
 ---
 
-## 🎓 Sobre a atividade acadêmica
-
-**Instituição:** São Paulo Tech School — SPTech  
-**Disciplina:** Arquitetura Computacional  
-**Atividade:** Atividade Avaliativa III — Game: Cruzadinha  
-**Sprint:** 3
-
----
-
 <div align="center">
 
 ### 💜 Thanks for playing! 💜
@@ -115,5 +110,9 @@ Não é necessário instalar dependências.
 **Made with 💜, code & a little Bieber Fever.**
 
 💿 ✨ 🎶 💜 🎶 ✨ 💿
+
+**Projeto acadêmico • Análise e Desenvolvimento de Sistemas**
+
+São Paulo Tech School — SPTech
 
 </div>
