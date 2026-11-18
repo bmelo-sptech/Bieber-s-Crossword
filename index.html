@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My World — Crossword Edition</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="pagina">
+        <header class="cabecalho">
+            <div class="faixa">MY WORLD • CROSSWORD EDITION</div>
+            <div class="topo">
+                <div class="titulo-area">
+                    <span class="estrela">✦ 2009 / 2010 ✦</span>
+                    <h1>MY WORLD</h1>
+                    <h2>Crossword Edition</h2>
+                    <p>Uma viagem pela Arquitetura Computacional em 16 palavras.</p>
+                    <div class="selos"><span>♡ BELIEBER EDITION</span><span>✦ ARQUITETURA COMPUTACIONAL</span></div>
+                </div>
+                <div class="foto-area">
+                    <span class="adesivo" aria-hidden="true">✦</span>
+                    <figure class="foto-moldura foto-2009">
+                        <img src="imagens/justin-2009.jpg" alt="Justin Bieber em Nova York em 2009">
+                    </figure>
+                    <figure class="foto-moldura">
+                        <img src="imagens/justin-myworld.jpg" alt="Imagem temática da era My World">
+                    </figure>
+                    <figure class="foto-moldura foto-2010">
+                        <img src="imagens/justin-2010.jpg" alt="Justin Bieber cantando na Casa Branca em 2010">
+                    </figure>
+                    <span class="adesivo adesivo-coracao" aria-hidden="true">♡</span>
+                </div>
+            </div>
+        </header>
+
+        <main class="conteudo">
+            <section class="jogo">
+                <div class="secao-titulo">
+                    <div>
+                        <span class="marcador">✦ O DESAFIO</span>
+                        <h2>Descubra as palavras</h2>
+                    </div>
+                    <div class="contador" id="div_contador">0 de 16 palavras</div>
+                </div>
+                <p class="instrucao">Clique numa casa e digite uma letra. Use as pistas para completar o tabuleiro.</p>
+                <section class="pistas" aria-labelledby="titulo-pistas">
+                    <h2 id="titulo-pistas">As pistas</h2>
+                    <div class="colunas-pistas">
+                        <div>
+                            <h3>→ Horizontais</h3>
+                            <div id="div_horizontais"></div>
+                        </div>
+                        <div>
+                            <h3>↓ Verticais</h3>
+                            <div id="div_verticais"></div>
+                        </div>
+                    </div>
+                </section>
+                <div class="rolagem-tabuleiro">
+                    <div id="div_tabuleiro" class="tabuleiro" aria-label="Tabuleiro da cruzadinha"></div>
+                </div>
+                <div class="botoes">
+                    <button class="botao-principal" onclick="conferir()">♡ Conferir</button>
+                    <button class="botao-secundario" onclick="reiniciar()">↺ Reiniciar</button>
+                </div>
+                <div id="div_mensagem" class="mensagem" aria-live="polite">Preencha as casas e clique em Conferir.</div>
+            </section>
+
+        </main>
+
+        <footer>
+            MY WORLD ♡ CROSSWORD EDITION <span>•</span> SPTECH — SPRINT 3
+            <div class="creditos">
+                Fotos de <a href="https://commons.wikimedia.org/wiki/File:2009_Justin_Bieber_NYC_1.JPG">Kerosene Photography (2009)</a> e
+                <a href="https://commons.wikimedia.org/wiki/File:Justin_Bieber_2010.jpg">Daniel Ogren (2010)</a> ·
+                <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
+            </div>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
